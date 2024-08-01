@@ -1,5 +1,4 @@
 import QtQuick
-import Cryptocurrencies
 
 Window {
     width: 1366
